@@ -3,6 +3,7 @@
 Here is a random list of different Internet of Things (IoT) Platforms and related stuff. Later on there will be a dedicated website with more details about each platform/project. Feel free to send me some links.
 
 ## Open-source
+* [ioBroker](https://www.iobroker.net/)
 * [Kaa](https://www.kaaproject.org/)
 * [macchina.io](https://macchina.io/)
 * [SiteWhere](http://www.sitewhere.org/)
